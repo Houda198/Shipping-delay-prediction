@@ -45,7 +45,7 @@ Shipping/
 ## 🚀 Installation
 
 # Cloner le projet
-git clone <repo-url>
+git clone <https://github.com/Houda198/Shipping-delay-prediction>
 cd Shipping
 
 # Créer un environnement virtuel (recommandé)
